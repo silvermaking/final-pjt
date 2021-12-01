@@ -1,0 +1,50 @@
+.padding-30{
+  padding: 30px;
+}
+
+.nav-dark{
+ background-color: #070720;
+}
+
+.main-nav{
+  background-color: #070720;
+  font-size: 30px;
+}
+
+.nav-margin{
+  margin: 5px 10px;
+}
+
+.font-color-white{
+  color:aliceblue;
+}
+
+.font-color-logonavy{
+  color:#0f0f4b;
+}
+
+.font-lightgray{
+  color: lightgray;
+}
+
+
+.font-color-navy{
+  color: #1c2092;
+}
+
+.font-color-dark{
+  color: #0d2236;
+}
+
+.background-darkblue{
+ background-color :  #314f6d;
+  
+}
+
+.background-dark{
+  background-color:#343A40;
+}
+
+.font-dark{
+  color:#155697;
+}
