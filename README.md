@@ -27,9 +27,7 @@
 - [x] 11/18계획
 - ERD 수정 및 skeleton file 만들기
 
-![ERD](/uploads/0d74e0906cf4906cb82262b39e6e40a5/ERD.png)
-
-
+![ERD](https://lab.ssafy.com/silvermaking/final-pjt/uploads/0d74e0906cf4906cb82262b39e6e40a5/ERD.png)
 
 ## 2021-11-18(Thu)
 
@@ -39,13 +37,9 @@
 
 - [x] 전체 프로젝트 일정 설계
 
-![image](/uploads/821f8846a03f4c66927c01a04df7b276/image.png)
+![image](https://lab.ssafy.com/silvermaking/final-pjt/uploads/821f8846a03f4c66927c01a04df7b276/image.png)![image](https://lab.ssafy.com/silvermaking/final-pjt/uploads/d2b4c8dda29ca43e571ea393e3b9c9ca/image.png)성당현
 
-![image](/uploads/d2b4c8dda29ca43e571ea393e3b9c9ca/image.png)
-
-- [x] 성당현
-
-  - skeleton -front 
+- [x] - skeleton -front 
 
   - vue.js, router, node.js, vuex
 
@@ -61,7 +55,7 @@
 
 - [x] 오전 스크럼 미팅
 
-![image](/uploads/0b744a929fc5bd16714993364716431f/image.png)
+![image](https://lab.ssafy.com/silvermaking/final-pjt/uploads/0b744a929fc5bd16714993364716431f/image.png)
 
 - [x] 스켈레톤 마무리
 - [ ] 연결 확인 
@@ -80,9 +74,7 @@
 
 - [x] 오전 스크럼 미팅
 
-![image](/uploads/d41500c26ac345546ee177e3a4e85473/image.png)
-
-- [x] back-front 연결 확인 
+- [x] ![image](https://lab.ssafy.com/silvermaking/final-pjt/uploads/d41500c26ac345546ee177e3a4e85473/image.png)back-front 연결 확인 
 - [x] 성당현
   - 디자인구상 
   - 오류수정
@@ -100,9 +92,7 @@
 
 - [x] 오전 스크럼 미팅
 
-![image](/uploads/8b20ae5f6841e2fc4f3eaab4dde6a2c3/image.png)
-
-- [x] 성당현
+- [x] ![image](https://lab.ssafy.com/silvermaking/final-pjt/uploads/8b20ae5f6841e2fc4f3eaab4dde6a2c3/image.png)성당현
   - 디자인만들기
   - login error
 - [x] 이은성
@@ -156,9 +146,7 @@
 
 ## 3. ERD
 
-![ERD](/uploads/0d74e0906cf4906cb82262b39e6e40a5/ERD.png)
-
-
+![ERD](https://lab.ssafy.com/silvermaking/final-pjt/uploads/0d74e0906cf4906cb82262b39e6e40a5/ERD.png)
 
 ## 4. 필수 기능
 
@@ -166,19 +154,13 @@
 
 - Home : movie card + 평점
 
-![image](/uploads/2b4b017f0bde2da4904b9a7de6970c6c/image.png)
+- ![image](https://lab.ssafy.com/silvermaking/final-pjt/uploads/2b4b017f0bde2da4904b9a7de6970c6c/image.png)Recommend : vote_count 내림차순으로 정렬해서 사용자에게 추천
 
-- Recommend : vote_count 내림차순으로 정렬해서 사용자에게 추천
+- ![image](https://lab.ssafy.com/silvermaking/final-pjt/uploads/8539d5f28a548ec457c4f8ad1d1e6fcc/image.png)Board : 게시판 
 
-![image](/uploads/8539d5f28a548ec457c4f8ad1d1e6fcc/image.png)
+- ![image](https://lab.ssafy.com/silvermaking/final-pjt/uploads/8b221a9d1d1ef6aed87c88f80a1a6fbf/image.png)UI
 
-- Board : 게시판 
-
-![image](/uploads/8b221a9d1d1ef6aed87c88f80a1a6fbf/image.png)
-
-- UI
-
-![image](/uploads/11bf7f34e90c004ffc13f34ede2ebd30/image.png)
+![image](https://lab.ssafy.com/silvermaking/final-pjt/uploads/fc321a8f21deea82feab18326fd6284b/image.png)
 
 
 
@@ -198,9 +180,7 @@ def recommendMovie(request):
 
 ### 관리자 페이지
 
-![image](/uploads/fc321a8f21deea82feab18326fd6284b/image.png)
-
-
+![image](https://lab.ssafy.com/silvermaking/final-pjt/uploads/fc321a8f21deea82feab18326fd6284b/image.png)
 
 ## 5. 배포
 
